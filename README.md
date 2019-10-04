@@ -1,4 +1,4 @@
-## create the job->file dependency graph
+## Create the job->file dependency graph
 
 ### Get the data
 Run Sumo Query "com.krux.common.mr.base.KruxJob (main): M/R Job Path!" with your desired day range, and export the result as CSV, it should look like resources/log-sample.csv
